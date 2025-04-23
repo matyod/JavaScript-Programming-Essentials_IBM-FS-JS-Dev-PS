@@ -1,0 +1,812 @@
+{
+  "totalItems": 464,
+  "endIndex": 464,
+  "startIndex": 451,
+  "itemsPerPage": 20,
+  "items": [
+    {
+      "essay": [],
+      "place_of_publication": "Ovid, Mich.",
+      "start_year": 1870,
+      "publisher": "Reeves & Carrier",
+      "county": [
+        "Clinton"
+      ],
+      "edition": null,
+      "frequency": "Weekly",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn97058048.json",
+      "id": "/lccn/sn97058048/",
+      "subject": [
+        "Clinton County (Mich.)--Newspapers.",
+        "Michigan--Clinton County.--fast--(OCoLC)fst01214774",
+        "Michigan--Ovid.--fast--(OCoLC)fst01236776",
+        "Ovid (Mich.)--Newspapers."
+      ],
+      "city": [
+        "Ovid"
+      ],
+      "language": [
+        "English"
+      ],
+      "title": "The Ovid register.",
+      "holding_type": [
+        "Microfilm Service Copy",
+        "Microfilm Service Copy"
+      ],
+      "end_year": 1886,
+      "alt_title": [],
+      "note": [
+        "Continues: Ovid Michigan register?",
+        "Description based on: Vol. 9, no. 23 (Dec. 11, 1874) = whole no. 439.",
+        "Merged with: Clinton & Shiawassee union, to form: Register- union.",
+        "Whole number designation dropped:-<v. 17, no. 12 (Sept. 21, 1882)> ; <v. 18, no. 40 (Jan. 18, 1884)>-"
+      ],
+      "lccn": "sn97058048",
+      "state": [
+        "Michigan"
+      ],
+      "place": [
+        "Michigan--Clinton--Ovid"
+      ],
+      "country": "Michigan",
+      "type": "title",
+      "title_normal": "ovid register.",
+      "oclc": "36106154"
+    },
+    {
+      "essay": [],
+      "place_of_publication": "Lansing, Mich.",
+      "start_year": 1911,
+      "publisher": "Robert Smith Print. Co.",
+      "county": [
+        "Ingham"
+      ],
+      "edition": null,
+      "frequency": "Daily",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn83016317.json",
+      "id": "/lccn/sn83016317/",
+      "subject": [
+        "Ingham County (Mich.)--Newspapers.",
+        "Lansing (Mich.)--Newspapers.",
+        "Michigan--Ingham County.--fast--(OCoLC)fst01209050",
+        "Michigan--Lansing.--fast--(OCoLC)fst01208349"
+      ],
+      "city": [
+        "Lansing"
+      ],
+      "language": [
+        "English"
+      ],
+      "title": "The State journal. [volume]",
+      "holding_type": [
+        "Microfilm Service Copy",
+        "Microfilm Master",
+        "Microfilm Service Copy",
+        "Original",
+        "Unspecified",
+        "Microfilm Service Copy",
+        "Original",
+        "Microfilm Service Copy",
+        "Original",
+        "Microfilm Service Copy",
+        "Original",
+        "Original"
+      ],
+      "end_year": 1980,
+      "alt_title": [
+        "Sunday state journal"
+      ],
+      "note": [
+        "\"Independent. Cf. Ayer, 1980.",
+        "Also issued on microfilm.",
+        "Issue called: 75th Anniversary ed., Jan. 1, 1930.",
+        "Issue called: Oldsmobile Commemorative ed., Aug. 20, 1972.",
+        "Mar. 16, 1947 issue covers centennial celebration of Lansing as Michigan's capitol. Apr. 28, 1955 issue called also \"Centennial edition.\"",
+        "Sunday ed. called: Sunday state journal."
+      ],
+      "lccn": "sn83016317",
+      "state": [
+        "Michigan"
+      ],
+      "place": [
+        "Michigan--Ingham--Lansing"
+      ],
+      "country": "Michigan",
+      "type": "title",
+      "title_normal": "state journal.",
+      "oclc": "9714548"
+    },
+    {
+      "essay": [],
+      "place_of_publication": "Detroit, Mich.",
+      "start_year": 1800,
+      "publisher": "Mrs. M.J.E. Millar, ed.",
+      "county": [
+        "Wayne"
+      ],
+      "edition": null,
+      "frequency": "Weekly",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn96076565.json",
+      "id": "/lccn/sn96076565/",
+      "subject": [
+        "Detroit (Mich.)--Newspapers.",
+        "Michigan--Detroit.--fast--(OCoLC)fst01205010",
+        "Michigan--Wayne County.--fast--(OCoLC)fst01206628",
+        "Michigan.--fast--(OCoLC)fst01208387",
+        "Temperance--Michigan--Newspapers.",
+        "Temperance.--fast--(OCoLC)fst01147309",
+        "Wayne County (Mich.)--Newspapers."
+      ],
+      "city": [
+        "Detroit"
+      ],
+      "language": [
+        "English"
+      ],
+      "title": "Truth for the people.",
+      "holding_type": [],
+      "end_year": 1999,
+      "alt_title": [],
+      "note": [
+        "\"Devoted to Temperance, Religion, Literature, and Home Interests\" and \"The organ of 200,000 Temperance Men and Women of Michigan.\" Cf. v. 4, no. 43.",
+        "Description based on: Vol. 3, no. 37 (Sept. 15, 1877).",
+        "Vol. 4, no. 43- (Oct. 18, 1878), also called: New ser., [v. 1], no. 38-"
+      ],
+      "lccn": "sn96076565",
+      "state": [
+        "Michigan"
+      ],
+      "place": [
+        "Michigan--Wayne--Detroit"
+      ],
+      "country": "Michigan",
+      "type": "title",
+      "title_normal": "truth for the people.",
+      "oclc": "34481119"
+    },
+    {
+      "essay": [],
+      "place_of_publication": "Detroit, Mich.",
+      "start_year": 1900,
+      "publisher": "Art Johnson, ed.",
+      "county": [
+        "Wayne"
+      ],
+      "edition": null,
+      "frequency": "Daily",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn94023994.json",
+      "id": "/lccn/sn94023994/",
+      "subject": [
+        "Detroit (Mich.)--Newspapers.",
+        "Michigan--Detroit.--fast--(OCoLC)fst01205010",
+        "Michigan--Wayne County.--fast--(OCoLC)fst01206628",
+        "Students.--fast--(OCoLC)fst01136041",
+        "Underground press publications--Michigan--Detroit.",
+        "Underground press publications.--fast--(OCoLC)fst01160984",
+        "Wayne County (Mich.)--Newspapers."
+      ],
+      "city": [
+        "Detroit"
+      ],
+      "language": [
+        "English"
+      ],
+      "title": "The South end. [volume]",
+      "holding_type": [
+        "Unspecified",
+        "Unspecified",
+        "Online Resource",
+        "Original",
+        "Unspecified",
+        "Microfilm Service Copy",
+        "Unspecified",
+        "Microform"
+      ],
+      "end_year": 9999,
+      "alt_title": [],
+      "note": [
+        "\" ... [T]he official student newspaper of Wayne State University, Detroit, Michigan ...\"",
+        "Available on microfilm from UMI (Underground Newspaper/Press Collection).",
+        "Description based on surrogate of: Vol. 58, no. 39 (Nov. 21, 1961).",
+        "Latest issue consulted: Vol. 62, no. 91 (Feb. 10, 1972) (surrogate).",
+        "Numbering irregular."
+      ],
+      "lccn": "sn94023994",
+      "state": [
+        "Michigan"
+      ],
+      "place": [
+        "Michigan--Wayne--Detroit"
+      ],
+      "country": "Michigan",
+      "type": "title",
+      "title_normal": "south end.",
+      "oclc": "30708661"
+    },
+    {
+      "essay": [],
+      "place_of_publication": "Ann Arbor, Mich.",
+      "start_year": 1975,
+      "publisher": "Ann Arbor Sun, Inc.",
+      "county": [
+        "Washtenaw"
+      ],
+      "edition": null,
+      "frequency": "Weekly",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn94023818.json",
+      "id": "/lccn/sn94023818/",
+      "subject": [
+        "Ann Arbor (Mich.)--Newspapers.",
+        "Counter culture--Michigan--Newspapers.--poliscit",
+        "Detroit (Mich.)--Newspapers.",
+        "Michigan--Ann Arbor.--fast--(OCoLC)fst01204587",
+        "Michigan--Detroit.--fast--(OCoLC)fst01205010",
+        "Michigan--Washtenaw County.--fast--(OCoLC)fst01214739",
+        "Michigan--Wayne County.--fast--(OCoLC)fst01206628",
+        "Underground press publications--Sources.",
+        "Underground press publications.--fast--(OCoLC)fst01160984",
+        "Washtenaw County (Mich.)--Newspapers.",
+        "Wayne County (Mich.)--Newspapers."
+      ],
+      "city": [
+        "Ann Arbor"
+      ],
+      "language": [
+        "English"
+      ],
+      "title": "The sun. [volume]",
+      "holding_type": [
+        "Unspecified",
+        "Unspecified",
+        "Microfilm Service Copy",
+        "Original",
+        "Original",
+        "Original"
+      ],
+      "end_year": 9999,
+      "alt_title": [
+        "Detroit sun"
+      ],
+      "note": [
+        "\"Serving greater Michigan.\" (varies).",
+        "Available on microfilm from UMI (Underground newspaper/press collection).",
+        "Includes supplements: \"Detroit Hi-Fi Show and Supper Disco\" and \"SunNewsletter No. 3\", <1976> and \"Kulchur.\"",
+        "Latest issue consulted: Vol. 5, no. 7 (Oct. 15, 1976) (surrogate).",
+        "Published Detroit, Mich., Oct. 1975- ; by the Detroit Sun, Inc., <Aug. 1976->"
+      ],
+      "lccn": "sn94023818",
+      "state": [
+        "Michigan"
+      ],
+      "place": [
+        "Michigan--Washtenaw--Ann Arbor"
+      ],
+      "country": "Michigan",
+      "type": "title",
+      "title_normal": "sun.",
+      "oclc": "1715766"
+    },
+    {
+      "essay": [
+        "\n<p>\r\n\tThe <a href=\"https://chroniclingamerica.loc.gov/lccn/sn88063294/\"><em>Detroit Evening Times</em></a> was founded by James Schermerhorn. It began publication October 1, 1900 under the name <em>Today</em>. Schermerhorn learned printing from his father, who was editor of the <a href=\"https://chroniclingamerica.loc.gov/lccn/sn85026487/\"><em>Hudson Gazette</em></a>. Schermerhorn succeeded his father as editor and publisher of the <em>Hudson Gazette</em> in 1886 until 1895. He then came to Detroit where we worked first for the Detroit publication the <a href=\"https://chroniclingamerica.loc.gov/lccn/sn90039526/\"><em>Evening News</em></a> from 1895 to 1896 and the <a href=\"https://chroniclingamerica.loc.gov/lccn/sn84025722/\"><em>Detroit Free Press</em></a> from 1896 to 1900. He left the <em>Free Press</em> to start the <em>Times</em>.</p>\n<p>\r\n\tSchermerhorn brought an interesting editorial mix to his new newspaper. A Democrat, he had a particular interest in working class news. He consciously adopted a non-partisan editorial policy for his paper. In an introduction to the paper, he defined the <em>Times</em> purpose to be \"a compact chronicle for toilful people, with nothing but news and an opinion or two.\"</p>\n<p>\r\n\tUnlike the majority of those who belonged to the Democratic Party, he was a staunch Prohibitionist, who eventually developed a national reputation as a speaker on the subject. One pundit, playing off of a stereotype that all \"drys\" were dull, boring people, announced that Schermerhorn couldn't be for Prohibition because he had a sense of humor. His humor also regularly appeared in the <em>Times</em>. In their local history of the area, <em>History of Wayne County and the City of Detroit</em> (1930), Clarence M. Burton and M. Agnes Burton describe the <em>Times</em> as \"a paper with a personality.\" In particular, they describe Schermerhorn as having an \"individualistic\" style remarking that \"Detroiters came to know and like the pithy and humorously pointed sentences which came from the Schermerhorn pen.\"</p>\n<p>\r\n\tIn 1921, Schemerhorn's financial difficulties led the paper to declare bankruptcy. It was eventually sold to representatives of William Randolph Hearst. The paper would continue to be owned by the Hearst chain until it was closed in 1960, and its assets were sold to the <a href=\"https://chroniclingamerica.loc.gov/lccn/sn83016183/\"><em>Detroit News</em></a>.</p>\n"
+      ],
+      "place_of_publication": "Detroit, Mich",
+      "start_year": 1921,
+      "publisher": "[s.n.]",
+      "county": [
+        "Wayne"
+      ],
+      "edition": "Home ed.",
+      "frequency": "Daily",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn88063294.json",
+      "id": "/lccn/sn88063294/",
+      "subject": [
+        "Detroit (Mich.)--Newspapers.",
+        "Michigan--Detroit.--fast--(OCoLC)fst01205010",
+        "Michigan--Wayne County.--fast--(OCoLC)fst01206628",
+        "Wayne County (Mich.)--Newspapers."
+      ],
+      "city": [
+        "Detroit"
+      ],
+      "language": [
+        "English"
+      ],
+      "title": "Detroit evening times.",
+      "holding_type": [
+        "Original",
+        "Microfilm Service Copy",
+        "Online Resource"
+      ],
+      "end_year": 1958,
+      "alt_title": [
+        "Detroit Sunday times",
+        "Detroit times"
+      ],
+      "note": [
+        "Archived issues are available in digital format from the Library of Congress Chronicling America online collection.",
+        "Description based on: 22nd yr., no. 27 (Nov. 1, 1921).",
+        "Issue called: Michigan centennial ed., May 2, 1937.",
+        "Most Sunday issues for Aug. 6, 1922-Jan. 12, 1958 called: Detroit Sunday times.",
+        "Some issues include supplement called: Goodfellows Special/Old Newsboys ed., published in Dec. of each year <Dce. 16, 1926-Dec. 1948>.",
+        "The word \"evening\" appears within ornament."
+      ],
+      "lccn": "sn88063294",
+      "state": [
+        "Michigan"
+      ],
+      "place": [
+        "Michigan--Wayne--Detroit"
+      ],
+      "country": "Michigan",
+      "type": "title",
+      "title_normal": "detroit evening times.",
+      "oclc": "17777577"
+    },
+    {
+      "essay": [],
+      "place_of_publication": "Washington, D.C.",
+      "start_year": 1925,
+      "publisher": "Empire Pub. Co.",
+      "county": [
+        null
+      ],
+      "edition": null,
+      "frequency": "Weekly",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn85038010.json",
+      "id": "/lccn/sn85038010/",
+      "subject": [
+        "Anti-Catholicism--Newspapers.",
+        "Anti-Catholicism.--fast--(OCoLC)fst00810287",
+        "Antisemitism--Newspapers.",
+        "Antisemitism.--fast--(OCoLC)fst00810769",
+        "Race discrimination--United States--Newspapers.",
+        "Race discrimination.--fast--(OCoLC)fst01086465",
+        "Racism--Newspapers.",
+        "Racism.--fast--(OCoLC)fst01086616",
+        "United States.--fast--(OCoLC)fst01204155",
+        "White supremacy movements--United States--Newspapers.",
+        "White supremacy movements.--fast--(OCoLC)fst01174715"
+      ],
+      "city": [
+        "Washington"
+      ],
+      "language": [
+        "English"
+      ],
+      "title": "The Indiana kourier. [volume]",
+      "holding_type": [
+        "Original"
+      ],
+      "end_year": 1925,
+      "alt_title": [
+        "Kourier"
+      ],
+      "note": [
+        "\"Official organ Knights of the Ku Klux Klan.\"",
+        "\"Successor to the Fiery cross.\"",
+        "Also issued on microfilm.",
+        "Description based on: Vol. 4, no. 16 (Mar. 6, 1925).",
+        "Latest issue consulted: Vol. 4, no. 26 (May 15, 1925).",
+        "State ed. of \"The national kourier\", also issued in various regional editions, including North Atlantic ed., North Central ed., Southwestern ed., Western and Pacific ed., and various state eds. including Illinois kourier, Iowa kourier, Kansas kourier, Michigan kourier, Ohio kourier, Texas kourier, and Wisconsin kourier."
+      ],
+      "lccn": "sn85038010",
+      "state": [
+        "District of Columbia"
+      ],
+      "place": [
+        "District of Columbia--Washington"
+      ],
+      "country": "District of Columbia",
+      "type": "title",
+      "title_normal": "indiana kourier.",
+      "oclc": "11636710"
+    },
+    {
+      "essay": [],
+      "place_of_publication": "Washington, D.C.",
+      "start_year": 1924,
+      "publisher": "Empire Pub. Co.",
+      "county": [
+        null
+      ],
+      "edition": "Southwestern ed.",
+      "frequency": "Weekly",
+      "url": "https://chroniclingamerica.loc.gov/lccn/2008225095.json",
+      "id": "/lccn/2008225095/",
+      "subject": [
+        "Anti-Catholicism--Newspapers.",
+        "Anti-Catholicism.--fast--(OCoLC)fst00810287",
+        "Antisemitism--Newspapers.",
+        "Antisemitism.--fast--(OCoLC)fst00810769",
+        "Race discrimination--United States--Newspapers.",
+        "Race discrimination.--fast--(OCoLC)fst01086465",
+        "Racism--Newspapers.",
+        "Racism.--fast--(OCoLC)fst01086616",
+        "United States.--fast--(OCoLC)fst01204155",
+        "White supremacy movements--United States--Newspapers.",
+        "White supremacy movements.--fast--(OCoLC)fst01174715"
+      ],
+      "city": [
+        "Washington"
+      ],
+      "language": [
+        "English"
+      ],
+      "title": "The National kourier. [volume]",
+      "holding_type": [
+        "Unspecified",
+        "Online Resource"
+      ],
+      "end_year": 1999,
+      "alt_title": [
+        "Kourier"
+      ],
+      "note": [
+        "\"Official organ Knights of the Ku Klux Klan.\"",
+        "Also issued on microfilm.",
+        "Description based on: Vol. 4, no. 16 (Mar. 6, 1925).",
+        "Issued also in various other regional editions, including North Atlantic ed., North Central ed., South Atlantic ed., Western and Pacific ed., and various state eds. including: Illinois kourier, Indiana kourier, Iowa kourier, Kansas kourier, Michigan kourier, Ohio kourier, Texas kourier, and Wisconsin kourier.",
+        "Latest issue consulted: Vol. 4, no. 23 (Apr. 24, 1925)."
+      ],
+      "lccn": "2008225095",
+      "state": [
+        "District of Columbia"
+      ],
+      "place": [
+        "District of Columbia--Washington"
+      ],
+      "country": "District of Columbia",
+      "type": "title",
+      "title_normal": "national kourier.",
+      "oclc": "232285216"
+    },
+    {
+      "essay": [],
+      "place_of_publication": "Washington, D.C.",
+      "start_year": 1924,
+      "publisher": "Empire Pub. Co.",
+      "county": [
+        null
+      ],
+      "edition": "Western and Pacific ed.",
+      "frequency": "Weekly",
+      "url": "https://chroniclingamerica.loc.gov/lccn/2008225096.json",
+      "id": "/lccn/2008225096/",
+      "subject": [
+        "Anti-Catholicism--Newspapers.",
+        "Anti-Catholicism.--fast--(OCoLC)fst00810287",
+        "Antisemitism--Newspapers.",
+        "Antisemitism.--fast--(OCoLC)fst00810769",
+        "Race discrimination--United States--Newspapers.",
+        "Race discrimination.--fast--(OCoLC)fst01086465",
+        "Racism--Newspapers.",
+        "Racism.--fast--(OCoLC)fst01086616",
+        "United States.--fast--(OCoLC)fst01204155",
+        "White supremacy movements--United States--Newspapers.",
+        "White supremacy movements.--fast--(OCoLC)fst01174715"
+      ],
+      "city": [
+        "Washington"
+      ],
+      "language": [
+        "English"
+      ],
+      "title": "The National kourier.",
+      "holding_type": [],
+      "end_year": 1999,
+      "alt_title": [
+        "Kourier"
+      ],
+      "note": [
+        "\"Official organ Knights of the Ku Klux Klan.\"",
+        "Also issued on microfilm.",
+        "Description based on: Vol. 4, no. 16 (Mar. 6, 1925).",
+        "Issued also in various other regional editions, including North Atlantic ed., North Central ed., South Atlantic ed., Southwestern ed., and various state eds. including: Illinois kourier, Indiana kourier, Iowa kourier, Kansas kourier, Michigan kourier, Ohio kourier, Texas kourier, and Wisconsin kourier.",
+        "Issues for <May 15, 1925-> called: Western ed.",
+        "Latest issue consulted: Vol. 4, no. 27 (May 22, 1925)."
+      ],
+      "lccn": "2008225096",
+      "state": [
+        "District of Columbia"
+      ],
+      "place": [
+        "District of Columbia--Washington"
+      ],
+      "country": "District of Columbia",
+      "type": "title",
+      "title_normal": "national kourier.",
+      "oclc": "232285797"
+    },
+    {
+      "essay": [],
+      "place_of_publication": "Rogers City, Mich.",
+      "start_year": 1893,
+      "publisher": "Fred'c Denny Larke, Pub.",
+      "county": [
+        "Presque Isle"
+      ],
+      "edition": null,
+      "frequency": "Weekly",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn97063018.json",
+      "id": "/lccn/sn97063018/",
+      "subject": [
+        "Michigan--Presque Isle County.--fast--(OCoLC)fst01214747",
+        "Michigan--Rogers City.--fast--(OCoLC)fst01219753",
+        "Presque Isle County (Mich.)--Newspapers.",
+        "Rogers City (Mich.)--Newspapers."
+      ],
+      "city": [
+        "Rogers City"
+      ],
+      "language": [
+        "English"
+      ],
+      "title": "Presque Isle County advance.",
+      "holding_type": [
+        "Original",
+        "Microfilm Service Copy",
+        "Original"
+      ],
+      "end_year": 9999,
+      "alt_title": [],
+      "note": [
+        "Description based on: Vol. 13, whole no. 710 (June 22, 1893).",
+        "Issue called: 100th anniversary, June 15, 1978.",
+        "Issue called: 50th Anniversary ed., May 3, 1928. Contains facsimile of Vol. 1, no. 8 of Presque Isle County Advance, June 18, 1878.",
+        "Issue called: 75th Anniversary ed., Dec. 7, 1953.",
+        "Issue called: Michigan Limestone Division and Bradley Transportation Line 50th Anniversary ed., Aug. 3, 1962.",
+        "Whole no. designation dropped: June 15, 1911 replaced by internal no. designation."
+      ],
+      "lccn": "sn97063018",
+      "state": [
+        "Michigan"
+      ],
+      "place": [
+        "Michigan--Presque Isle--Rogers City"
+      ],
+      "country": "Michigan",
+      "type": "title",
+      "title_normal": "presque isle county advance.",
+      "oclc": "36206589"
+    },
+    {
+      "essay": [],
+      "place_of_publication": "Cleveland, Ohio",
+      "start_year": 1917,
+      "publisher": null,
+      "county": [
+        "Wayne",
+        "Cuyahoga"
+      ],
+      "edition": null,
+      "frequency": "Weekly",
+      "url": "https://chroniclingamerica.loc.gov/lccn/2019271325.json",
+      "id": "/lccn/2019271325/",
+      "subject": [
+        "Cleveland (Ohio)--Newspapers.",
+        "Germans--Michigan--Newspapers.",
+        "Germans--Ohio--Newspapers.",
+        "Germans.--fast--(OCoLC)fst00942100",
+        "Michigan.--fast--(OCoLC)fst01208387",
+        "Ohio--Cleveland.--fast--(OCoLC)fst01205966",
+        "Ohio.--fast--(OCoLC)fst01205075"
+      ],
+      "city": [
+        "Detroit",
+        "Cleveland"
+      ],
+      "language": [
+        "English",
+        "German"
+      ],
+      "title": "Siebenbürgisch-Amerikanisches Volksblatt. [online resource]",
+      "holding_type": [
+        "Online Resource"
+      ],
+      "end_year": 1971,
+      "alt_title": [
+        "Transylvania-American peoples journal"
+      ],
+      "note": [
+        "Beginning in May 1954, published in Detroit, Michigan.",
+        "Description based on: Jahrgang 34, No. 35 (6. Juli 1939); title from masthead (Chroniclingamerica.loc.gov, viewed September 26, 2019).",
+        "Editors: Georg Schneider, June 14, 1917-Sept. 28, 1950; Walter Eckstein, Oct. 5, 1950-<May 6, 1954>.",
+        "In German with some columns in English.",
+        "Latest issue consulted: Jahrgang 45 (29. April 1954) (Chroniclingamerica.loc.gov, viewed September 26, 2019).",
+        "Officiales Organ des Zentral-Verbandes der Siebenbürger-Sachsen in Amerika.",
+        "Publisher: Press & Plate Co., Oct. 5, 1950-<May 6, 1954>."
+      ],
+      "lccn": "2019271325",
+      "state": [
+        "Michigan",
+        "Ohio"
+      ],
+      "place": [
+        "Michigan--Wayne--Detroit",
+        "Ohio--Cuyahoga--Cleveland"
+      ],
+      "country": "Michigan",
+      "type": "title",
+      "title_normal": "siebenbürgisch-amerikanisches volksblatt.",
+      "oclc": "1121045750"
+    },
+    {
+      "essay": [],
+      "place_of_publication": "Ann Arbor, Mich.",
+      "start_year": 1841,
+      "publisher": "N. Sullivan",
+      "county": [
+        "Washtenaw"
+      ],
+      "edition": null,
+      "frequency": "Weekly",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn83016163.json",
+      "id": "/lccn/sn83016163/",
+      "subject": [
+        "Ann Arbor (Mich.)--Newspapers.",
+        "Antislavery movements--Michigan--Newspapers.",
+        "Antislavery movements.--fast--(OCoLC)fst00810800",
+        "Michigan--Ann Arbor.--fast--(OCoLC)fst01204587",
+        "Michigan--Newspapers.",
+        "Michigan--Washtenaw County.--fast--(OCoLC)fst01214739",
+        "Michigan.--fast--(OCoLC)fst01208387",
+        "Washtenaw County (Mich.)--Newspapers."
+      ],
+      "city": [
+        "Ann Arbor"
+      ],
+      "language": [
+        "English"
+      ],
+      "title": "Signal of liberty. [volume]",
+      "holding_type": [
+        "Microfilm Service Copy",
+        "Microfilm Master",
+        "Original",
+        "Original",
+        "Microfilm Service Copy",
+        "Unspecified",
+        "Unspecified",
+        "Original"
+      ],
+      "end_year": 1848,
+      "alt_title": [],
+      "note": [
+        "\"Republican.\" Cf. Doll, L.A hist. of the newspapers of Ann Arbor, 1959.",
+        "Description based on: Vol. 1, no. 36 (Dec. 20, 1841).",
+        "Issue for Jan. 5, 1846 called vol. 5, no. 35, whole no. 247 but constitutes v. 5, no. 37, whole no. 245.",
+        "Latest issue consulted: Vol. 7, no. 42 (Feb. 5, 1848).",
+        "Published by Executive Committee of the Michigan State Anti-slavery Society.",
+        "Published by Foster & Dell, <Apr. 3, 1847>-",
+        "Whole numbering added: Apr. 25, 1842.",
+        "Whole numbering dropped: Feb. 5, 1848."
+      ],
+      "lccn": "sn83016163",
+      "state": [
+        "Michigan"
+      ],
+      "place": [
+        "Michigan--Washtenaw--Ann Arbor"
+      ],
+      "country": "Michigan",
+      "type": "title",
+      "title_normal": "signal of liberty.",
+      "oclc": "9500153"
+    },
+    {
+      "essay": [],
+      "place_of_publication": "Battle Creek, Mich.",
+      "start_year": 1959,
+      "publisher": "Federated Publications",
+      "county": [
+        "Calhoun"
+      ],
+      "edition": null,
+      "frequency": "Daily",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn96076598.json",
+      "id": "/lccn/sn96076598/",
+      "subject": [
+        "Battle Creek (Mich.)--Newspapers.",
+        "Calhoun County (Mich.)--Newspapers.",
+        "Michigan--Battle Creek.--fast--(OCoLC)fst01218610",
+        "Michigan--Calhoun County.--fast--(OCoLC)fst01214761"
+      ],
+      "city": [
+        "Battle Creek"
+      ],
+      "language": [
+        "English"
+      ],
+      "title": "Enquirer and news.",
+      "holding_type": [
+        "Microfilm Service Copy"
+      ],
+      "end_year": 1983,
+      "alt_title": [
+        "Battle Creek enquirer and news"
+      ],
+      "note": [
+        "Issue called: 75th anniversary ed., July 20, 1975.",
+        "Issue called: Industry-Business Report, South Central Cities Area, Fourth annual ed., Feb. 19, 1961.",
+        "Issue called: Industry-Business Report, South Central Michigan, Sixth annual ed., Feb. 17, 1963.",
+        "July 20, 1975 issue contains front page reproductions of the following Battle Creek newspapers: Morning enquirer, Apr. 19, 1906, Evening news, June 11, 1917, Battle Creek enquirer and evening news, Nov. 11, 1918, May 21, 1927, Oct. 6, 1931, Battle Creek enquirer and news, Dec. 8, 1941, May 15, 1942, Aug. 14, 1945, Oct. 26, 1950, Feb. 16, 1958, July 31, 1959, and Enquirer and news, Nov. 22, 1963.",
+        "No numbering system used: Aug. 21, 1967-July 20, 1975."
+      ],
+      "lccn": "sn96076598",
+      "state": [
+        "Michigan"
+      ],
+      "place": [
+        "Michigan--Calhoun--Battle Creek"
+      ],
+      "country": "Michigan",
+      "type": "title",
+      "title_normal": "enquirer and news.",
+      "oclc": "34706355"
+    },
+    {
+      "essay": [],
+      "place_of_publication": "Atlanta, Ga.",
+      "start_year": 1924,
+      "publisher": "Empire Pub. Co.",
+      "county": [
+        null,
+        "Fulton"
+      ],
+      "edition": "South Atlantic ed.",
+      "frequency": "Weekly",
+      "url": "https://chroniclingamerica.loc.gov/lccn/2008225094.json",
+      "id": "/lccn/2008225094/",
+      "subject": [
+        "Anti-Catholicism--Newspapers.",
+        "Anti-Catholicism.--fast--(OCoLC)fst00810287",
+        "Antisemitism--Newspapers.",
+        "Antisemitism.--fast--(OCoLC)fst00810769",
+        "Race discrimination--United States--Newspapers.",
+        "Race discrimination.--fast--(OCoLC)fst01086465",
+        "Racism--Newspapers.",
+        "Racism.--fast--(OCoLC)fst01086616",
+        "United States.--fast--(OCoLC)fst01204155",
+        "White supremacy movements--United States--Newspapers.",
+        "White supremacy movements.--fast--(OCoLC)fst01174715"
+      ],
+      "city": [
+        "Washington",
+        "Atlanta"
+      ],
+      "language": [
+        "English"
+      ],
+      "title": "The National kourier.",
+      "holding_type": [],
+      "end_year": 1999,
+      "alt_title": [
+        "Kourier"
+      ],
+      "note": [
+        "\"Official organ Knights of the Ku Klux Klan.\"",
+        "\"Successor to the Searchlight.\"",
+        "Also issued on microfilm.",
+        "Description based on: Vol. 4, no. 1 (Nov. 21, 1924).",
+        "Issued also in various other regional editions, including North Atlantic ed., North Central ed., Southwestern ed., Western and Pacific ed., and various state eds. including: Illinois kourier, Indiana kourier, Iowa kourier, Kansas kourier, Michigan kourier, Ohio kourier, Texas kourier, and Wisconsin kourier.",
+        "Issues for May 8, 1925- called: Southern ed.",
+        "Latest issue consulted: Vol. 4, no. 26 (May 15, 1925).",
+        "Publisher's statement, Dec. 12, 1924-Feb. 6, 1925: \"Home Office: ... Washington, D.C.\" (\"Atlanta, Ga.\" still appears on masthead); published: Washington, D.C., Feb. 13, 1925-"
+      ],
+      "lccn": "2008225094",
+      "state": [
+        "District of Columbia",
+        "Georgia"
+      ],
+      "place": [
+        "District of Columbia--Washington",
+        "Georgia--Fulton--Atlanta"
+      ],
+      "country": "Georgia",
+      "type": "title",
+      "title_normal": "national kourier.",
+      "oclc": "232280429"
+    }
+  ]
+}
