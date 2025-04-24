@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Weather Report</title>
+</head>
+
+<body>
+  <h1>Weather Report</h1>
+
+  <form id="weatherForm">
+    <label for="lat">Enter latitude:</label>
+    <input type="number" id="lat" name="lat" max="90" min="-90" step="0.00001">
+    <br>
+    <label for="lng">Enter longitude:</label>
+    <input type="number" id="lng" name="lng" max="180" min="-180" step="0.00001">
+    <br>
+    <button type="submit">Get Weather</button>
+  </form>
+
+  <div id="weatherInfo"></div>
+  <script src="./practice_task.js"></script>
+</body>
+
+</html>
